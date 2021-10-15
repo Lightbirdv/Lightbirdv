@@ -18,6 +18,10 @@ I have used before:
   - RestAPI's ⬆️
   - Node.js 
   - React and redux
+  - git (more gitlab than github) 🔄
+  - gitrunner 🏃
+  - jira 🎫
+  - docker 🐳
 
 I switched from Technical Engineering ➡️ Media Informatics </br>
 since I am not a fan of math without numbers 😉
