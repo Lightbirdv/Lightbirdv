@@ -2,6 +2,8 @@
 
 Welcome to my Github profile.
 
+<img src="https://cdn-icons-png.flaticon.com/512/685/685844.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
+
 Currently I am working as a Software Engineer Intern at Bayer 🏛️
 
 Programming Languages I have experience with:
