@@ -2,15 +2,14 @@
 
 Welcome to my Github profile.
 
-<img src="https://cdn-icons-png.flaticon.com/128/298/298405.png" height="60" align="right" style="float:right; border-radius: 3px;overflow: hidden;"/>
-
-Currently I am working as a Software Engineer Intern at Bayer 🏛️
+Currently I am working as a DevOps Engineer Intern at Atlas Metrics 💚
 
 Programming Languages I have experience with:
   - Python 🐍
   - Javascript 📜
   - Java ☕
   - C 🗝️
+  - C# 🎮
 
 I have used before:
   - cdk and terraform to create code as infrastructure for AWS 🏗️
